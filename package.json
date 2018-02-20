@@ -1,7 +1,7 @@
 {
-  "name": "admin",
+  "name": "react-ultralight",
   "version": "0.0.1",
-  "description": "",
+  "description": "ultralight starter repo for building a react single page app",
   "main": "src/index.jsx",
   "scripts": {
     "start": "webpack-dev-server",
